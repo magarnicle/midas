@@ -1,4 +1,4 @@
-# MultIDimensionAlSpreadsheet
+# M*ult*ID*imension*A*l*S*preadsheet*
 An N-dimensional spreadsheet with a Vim-inspired grammar.
 
 ## N-dimensional
