@@ -20,7 +20,7 @@ Many commands operate in a direction. And, considering this is an *N-dimensional
 Actions to perform on objects include add, delete, edit, yank (copy) etc.
 
 ### Objects
-Cells, rows, columns, axes, views (arbitrary pairings of axes displayed together).
+Cells, rows, columns, axes, sheets (arbitrary pairings of axes displayed together).
 
 ## JSON
 Midas files are just JSON files.
