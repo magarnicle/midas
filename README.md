@@ -24,3 +24,7 @@ Cells, rows, columns, axes, sheets (arbitrary pairings of axes displayed togethe
 
 ## JSON
 Midas files are just JSON files.
+
+## Programmable
+
+Using Python 3. All cells are python expressions, and all objects are available to be manipulated by these expressions. Obviously this is incredibly flexible and therefore insecure.
